@@ -1,0 +1,3 @@
+- Custom Components must be Upper Camel Case
+- Components are only allowed to have one return element 
+- Simple work around wrap multiple elements in <div>
