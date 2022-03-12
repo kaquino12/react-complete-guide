@@ -1,3 +1,8 @@
-1) npm install
+To run project
 
-2) npm start
+    1) npm install
+    2) npm start
+
+Lessons
+
+    1) Barebones project setup
