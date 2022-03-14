@@ -7,3 +7,4 @@ Lessons
 
     1) Barebones project setup
     2) New Custom Component
+    3) Using CSS for the components
