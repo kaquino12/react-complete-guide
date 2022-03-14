@@ -1,3 +1,5 @@
 - Custom Components must be Upper Camel Case
 - Components are only allowed to have one return element 
 - Simple work around wrap multiple elements in <div>
+- In adding CSS to components just import the CSS file
+- In assigning the element to a css class use className not class
