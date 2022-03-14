@@ -3,3 +3,5 @@
 - Simple work around wrap multiple elements in <div>
 - In adding CSS to components just import the CSS file
 - In assigning the element to a css class use className not class
+- Rendering Date object to html will cause issues try using methods like toISOString() on date object
+- Put const or let variables into {} to display it in the html 
