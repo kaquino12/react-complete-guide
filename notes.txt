@@ -5,3 +5,4 @@
 - In assigning the element to a css class use className not class
 - Rendering Date object to html will cause issues try using methods like toISOString() on date object
 - Put const or let variables into {} to display it in the html 
+- React ensures that there is only one parameter per component which will hold all received attributes as properties hence the name props
